@@ -1,2 +1,2 @@
 # asincronismoJS
-Asincronismo con JavaScript (CallBacks - Promises - Asyn/Await)
+Asincronismo con JavaScript (CallBacks - Promises - Async/Await)
