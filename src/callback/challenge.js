@@ -17,3 +17,4 @@ function fetchData(urlApi, callback){ //urlApi: no confundir y colocar API
 	}
 	xhttp.send();
 }
+
